@@ -1,13 +1,11 @@
+![BankerBot](https://github.com/Sowmya74/MachineLearning/blob/979422b2e9bba7547c1b8868e512e39b8ad06190/ICONS%20FOLDER/chatbot%20(1).gif)
+
 # Banking ChatBot using Amazon Lex 
+
 a practical chatbot, BankerBot, that can help bank's customers check their account balance and transfer money between accounts!
-
-![Banker_Bot](https://www.flaticon.com/free-animated-icon/chatbot_11260829?term=chatbot&page=1&position=4&origin=search&related_id=11260829)
-
-<a href="https://www.flaticon.com/free-animated-icons/chatbot" title="chatbot animated icons"></a>
 
 ## Overview 
 
-![Chatbot Icon](https://www.flaticon.com/free-animated-icon/chatbot_12205168?term=chatbot&page=1&position=7&origin=search&related_id=12205168)
 This project demonstrates how to create a conversational interface for banking services using AWS technologies. BankerBot is designed to provide assistance and handle queries related to account balances, fund transfers, and other basic banking operations.
 
 ## Key Features
@@ -16,6 +14,7 @@ This project demonstrates how to create a conversational interface for banking s
 - Account balance inquiries
 - Fund transfers between accounts
 - Secure handling of sensitive banking information
+![Chatbot](https://github.com/Sowmya74/MachineLearning/blob/979422b2e9bba7547c1b8868e512e39b8ad06190/ICONS%20FOLDER/chat-bot.gif)
 
 ## Technologies Used
 
@@ -40,7 +39,7 @@ This project demonstrates how to create a conversational interface for banking s
 
 ## Documentation 
 
-![BankerBot](https://www.flaticon.com/free-animated-icon/chat-bot_11184177?term=chatbot&page=1&position=3&origin=search&related_id=11184177)
+![Bot](https://github.com/Sowmya74/MachineLearning/blob/979422b2e9bba7547c1b8868e512e39b8ad06190/ICONS%20FOLDER/chatbot.gif)
 
 For complete setup instructions, architecture details, and implementation guidelines, please refer to the following resources:
 
