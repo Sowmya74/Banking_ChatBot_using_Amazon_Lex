@@ -3,6 +3,8 @@ a practical chatbot, BankerBot, that can help bank's customers check their accou
 
 ![Banker_Bot](https://www.flaticon.com/free-animated-icon/chatbot_11260829?term=chatbot&page=1&position=4&origin=search&related_id=11260829)
 
+<a href="https://www.flaticon.com/free-animated-icons/chatbot" title="chatbot animated icons"></a>
+
 ## Overview 
 
 ![Chatbot Icon](https://www.flaticon.com/free-animated-icon/chatbot_12205168?term=chatbot&page=1&position=7&origin=search&related_id=12205168)
