@@ -1,8 +1,10 @@
 # Banking ChatBot using Amazon Lex 
 a practical chatbot, BankerBot, that can help bank's customers check their account balance and transfer money between accounts!
+
 ![Banker_Bot](https://www.flaticon.com/free-animated-icon/chatbot_11260829?term=chatbot&page=1&position=4&origin=search&related_id=11260829)
 
 ## Overview 
+
 ![Chatbot Icon](https://www.flaticon.com/free-animated-icon/chatbot_12205168?term=chatbot&page=1&position=7&origin=search&related_id=12205168)
 This project demonstrates how to create a conversational interface for banking services using AWS technologies. BankerBot is designed to provide assistance and handle queries related to account balances, fund transfers, and other basic banking operations.
 
@@ -34,7 +36,9 @@ This project demonstrates how to create a conversational interface for banking s
 - Implements security measures to protect sensitive user data.
 - Provides appropriate responses based on the intent and slot values.
 
-## Documentation ![BankerBot](https://www.flaticon.com/free-animated-icon/chat-bot_11184177?term=chatbot&page=1&position=3&origin=search&related_id=11184177)
+## Documentation 
+
+![BankerBot](https://www.flaticon.com/free-animated-icon/chat-bot_11184177?term=chatbot&page=1&position=3&origin=search&related_id=11184177)
 
 For complete setup instructions, architecture details, and implementation guidelines, please refer to the following resources:
 
