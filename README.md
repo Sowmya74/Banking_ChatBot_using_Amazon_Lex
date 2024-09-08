@@ -1,4 +1,5 @@
-![BankerBot](https://github.com/Sowmya74/MachineLearning/blob/979422b2e9bba7547c1b8868e512e39b8ad06190/ICONS%20FOLDER/chatbot%20(1).gif)
+![HiBot](https://github.com/Sowmya74/MachineLearning/blob/a030f7f657d6a8cc9ad94023937b2baa05e39eae/ICONS%20FOLDER/hibot.gif)
+
 
 # Banking ChatBot using Amazon Lex 
 
@@ -14,7 +15,9 @@ This project demonstrates how to create a conversational interface for banking s
 - Account balance inquiries
 - Fund transfers between accounts
 - Secure handling of sensitive banking information
+  
 ![Thinkbot](https://github.com/Sowmya74/MachineLearning/blob/574c20ee64a776767c619571db1b49d299e31256/ICONS%20FOLDER/think_bot.gif)
+
 ## Technologies Used
 
 - Amazon Lex: Used to build the conversational interface and handle natural language understanding.
@@ -38,7 +41,8 @@ This project demonstrates how to create a conversational interface for banking s
 
 ## Documentation 
 
-![Bot](https://github.com/Sowmya74/MachineLearning/blob/979422b2e9bba7547c1b8868e512e39b8ad06190/ICONS%20FOLDER/chatbot.gif)
+![chatbot](https://github.com/Sowmya74/MachineLearning/blob/a030f7f657d6a8cc9ad94023937b2baa05e39eae/ICONS%20FOLDER/chatbot.gif)
+
 
 For complete setup instructions, architecture details, and implementation guidelines, please refer to the following resources:
 
