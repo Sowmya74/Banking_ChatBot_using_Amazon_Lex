@@ -15,7 +15,7 @@ This project demonstrates how to create a conversational interface for banking s
 - Fund transfers between accounts
 - Secure handling of sensitive banking information
 ![Chatbot](https://github.com/Sowmya74/MachineLearning/blob/979422b2e9bba7547c1b8868e512e39b8ad06190/ICONS%20FOLDER/chat-bot.gif)
-
+![Thinkbot](https://github.com/Sowmya74/MachineLearning/blob/574c20ee64a776767c619571db1b49d299e31256/ICONS%20FOLDER/think_bot.gif)
 ## Technologies Used
 
 - Amazon Lex: Used to build the conversational interface and handle natural language understanding.
